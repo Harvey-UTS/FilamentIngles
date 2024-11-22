@@ -1,0 +1,10 @@
+name,email,password,cedula,grupo_id
+Carlos Sanchez,carlossanchez@example.com,password123,1020304050,1
+Laura Mendez,lauramendez@example.com,password456,2030405060,1
+Pedro Gomez,pedrogomez@example.com,password789,3040506070,1
+Ana Torres,anatorres@example.com,password321,4050607080,1
+Luis Martinez,luismartinez@example.com,password654,5060708090,1
+Jorge Ramirez,jorgeramirez@example.com,password111,7080901020,1
+Valeria Rojas,valeriarojas@example.com,password222,8090102030,1
+Fernando Perez,fernandoperez@example.com,password333,9010203040,1
+Gabriela Castillo,gabrielacastillo@example.com,password444,1020304056,1
